@@ -1,0 +1,11 @@
+Internal System Status
+
+The employee attendance system is currently operational.
+
+The leave management system is operational.
+
+The internal project portal is undergoing routine maintenance and may experience intermittent availability.
+
+The IT operations team is monitoring the affected services.
+
+Employees experiencing issues with internal systems should report them through the company's approved IT support channel.
